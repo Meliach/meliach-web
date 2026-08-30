@@ -6,4 +6,5 @@ This site is when I learnt:
 - images
 - CSS stuff and using ids (thanks chiken)
 - redirect to another html
-- 
+
+saving this a bit of reference for my main site, also taking notes abt chiken's advice like vw and vh or smth
