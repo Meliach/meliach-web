@@ -4,6 +4,11 @@ h1 {
     font-family: Arial, sans-serif;
 }
 
-span {
+#red_text {
     color: red;
+    font-family: Arial, sans-serif;
+}
+
+body {      
+    background-color: rgb(248, 232, 255);
 }
